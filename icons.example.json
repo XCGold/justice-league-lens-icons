@@ -1,7 +1,7 @@
 {
   "version": 1,
   "players": {
-    "380df991-f603-344c-a090-369bad2a924a": {"icon": "green_lantern"},
+    "380df991-f603-344c-a090-369bad2a924a": {"icon": "green_lantern_one"},
     "143c22c6-3d5f-43dc-871d-3ab60f703ef5": { "icon": "robin", "color": "#E53935" },
     "00000000-0000-0000-0000-000000000004": "teammate"
   }
